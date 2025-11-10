@@ -1,0 +1,11 @@
+AXES
+  axis=0, horizontal
+  axis=1, vertical
+
+PIVOT-TABLES vs CROSSTABS (useful in making heatmaps)
+  pivot_tables - uses aggregate functions.
+  crosstabs    - uses counting functions.
+
+JOINING VS MERGING
+  merging       - merges based on a common column.
+  concatenating - simply joins them.
